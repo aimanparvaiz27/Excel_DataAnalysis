@@ -1,5 +1,6 @@
 # Excel Takeaways
 **Difference Between VLOOKUP and INDEX-MATCH Formulas in Excel?**
+
 **VLOOKUP**
    Searches vertically from left to right
    Needs the lookup value in the first column
